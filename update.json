@@ -1,16 +1,11 @@
 {
   "servers": [
-    "https://example.com/updates/",
-    "https://backup.example.com/updates/"
+    "https://github.com/user-attachments/files/15962044/"
   ],
   "files": [
     {
-      "path": "update1.zip",
-      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
-      "path": "update2.zip",
-      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+      "path": "text.zip",
+      "checksum": "sha256-of-the-file"
     }
   ]
 }

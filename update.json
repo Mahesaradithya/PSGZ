@@ -1,0 +1,11 @@
+{
+  "servers": [
+    "https://github.com/user-attachments/files/15962044/text.zip"
+  ],
+  "files": [
+    {
+      "path": "textt.zip",
+      "checksum": "sha256-of-the-file"
+    }
+  ]
+}
